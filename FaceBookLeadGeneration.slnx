@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/FaceBookLeadGeneration/">
-    <Project Path="../../FacebookLeadGeneration/FacebookLeadGeneration.API/FacebookLeadGeneration.API.csproj" />
-    <Project Path="../../FacebookLeadGeneration/FacebookLeadGeneration.Application/FacebookLeadGeneration.Application.csproj" />
-    <Project Path="../../FacebookLeadGeneration/FacebookLeadGeneration.Domain/FacebookLeadGeneration.Domain.csproj" />
-    <Project Path="../../FacebookLeadGeneration/FacebookLeadGeneration.Infrastructure/FacebookLeadGeneration.Infrastructure.csproj" />
+    <Project Path="FacebookLeadGeneration.API/FacebookLeadGeneration.API.csproj" />
+    <Project Path="FacebookLeadGeneration.Application/FacebookLeadGeneration.Application.csproj" />
+    <Project Path="FacebookLeadGeneration.Domain/FacebookLeadGeneration.Domain.csproj" />
+    <Project Path="FacebookLeadGeneration.Infrastructure/FacebookLeadGeneration.Infrastructure.csproj" />
   </Folder>
 </Solution>
